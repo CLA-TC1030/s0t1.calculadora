@@ -125,11 +125,3 @@ Explicación de los otros archivos:
 - Algunos casos de prueba podrían recibir calificación individual, otros podrían recibir calificación y si pasan todos juntos (o todas las pruebas en conjunto).
 
 - La calificación final se otorgará de manera automática en cada *commit*, y se evaluará solamente hasta la fecha limite de la actividad.
-```mermaid
-classDiagram
-      class Clase
-      Clase: -x
-      Clase: -y
-      Clase: +op1()
-      Clase: +op2()
-```
