@@ -2,7 +2,12 @@
 
 ## Descripción del Problema
 
-Esta actividad consiste en programar una Calculadora con funciones aritméticas en C++
+<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/calculator/main/docs/Images/CalculatorScreenshot.png" alt="Calculadora aritmética" width="300"/>
+</p>
+
+Esta actividad consiste en programar en C++ una Calculadora con funciones aritméticas básicas
+
 
 ## Ejemplo de ejecución
 
